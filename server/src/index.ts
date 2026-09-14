@@ -1,7 +1,7 @@
 import express from 'express'
 import cors from 'cors'
 import 'dotenv/config'
-import { parseTradingQuestion } from './gemini'
+import { parseTradingQuestion } from './gemini.js'
 
 const app = express()
 app.use(cors())
