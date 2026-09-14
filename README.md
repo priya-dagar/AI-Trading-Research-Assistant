@@ -5,7 +5,7 @@ testable experiment — and asks the user for anything important that's missing,
 rather than guessing.
 
 ## Live Demo
-[Add your deployed link here once deployed]
+https://ai-trading-research-assistant-rosy.vercel.app/
 
 ## What it does
 
